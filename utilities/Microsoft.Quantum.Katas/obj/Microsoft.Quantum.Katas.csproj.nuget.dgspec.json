@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Microsoft.Quantum.Katas/Microsoft.Quantum.Katas.csproj": {}
+  },
+  "projects": {
+    "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Common/Common.csproj",
+        "projectName": "Microsoft.Quantum.Katas.Common",
+        "projectPath": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Common/Common.csproj",
+        "packagesPath": "/Users/zach/.nuget/packages/",
+        "outputPath": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/NuGet.Config",
+          "/Users/zach/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ms-quantum-public/Microsoft Quantum (public)/_packaging/alpha/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Quantum.CSharpGeneration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.24.210930, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.QSharp.Core": {
+              "target": "Package",
+              "version": "[0.24.210930, )"
+            },
+            "Microsoft.Quantum.Runtime.Core": {
+              "target": "Package",
+              "version": "[0.24.210930, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Standard": {
+              "target": "Package",
+              "version": "[0.24.210930, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Microsoft.Quantum.Katas/Microsoft.Quantum.Katas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Microsoft.Quantum.Katas/Microsoft.Quantum.Katas.csproj",
+        "projectName": "Microsoft.Quantum.Katas",
+        "projectPath": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Microsoft.Quantum.Katas/Microsoft.Quantum.Katas.csproj",
+        "packagesPath": "/Users/zach/.nuget/packages/",
+        "outputPath": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Microsoft.Quantum.Katas/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/NuGet.Config",
+          "/Users/zach/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ms-quantum-public/Microsoft Quantum (public)/_packaging/alpha/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Common/Common.csproj": {
+                "projectPath": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/utilities/Common/Common.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Quantum.IQSharp.Jupyter": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.24.210930, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
