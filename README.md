@@ -1,3 +1,7 @@
+#NOTE: 
+
+This is a clone of the Microsoft Quantum Katas found ([here](https://github.com/Microsoft/QuantumKatas)). This is just me working through them to learn quantum computing.
+
 # Introduction
 
 The Quantum Katas are a collection of self-paced tutorials and programming exercises to help you learn quantum computing and Q# programming.
