@@ -1,4 +1,4 @@
-#NOTE: 
+# NOTE: 
 
 This is a clone of the Microsoft Quantum Katas found ([here](https://github.com/Microsoft/QuantumKatas)). This is just me working through them to learn quantum computing.
 
