@@ -1,26 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/tutorials/QuantumClassification/QuantumClassification.csproj": {}
+    "c:\\Users\\zacha\\Dev\\Microsoft-Quantum-Katas\\tutorials\\QuantumClassification\\QuantumClassification.csproj": {}
   },
   "projects": {
-    "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/tutorials/QuantumClassification/QuantumClassification.csproj": {
+    "c:\\Users\\zacha\\Dev\\Microsoft-Quantum-Katas\\tutorials\\QuantumClassification\\QuantumClassification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/tutorials/QuantumClassification/QuantumClassification.csproj",
+        "projectUniqueName": "c:\\Users\\zacha\\Dev\\Microsoft-Quantum-Katas\\tutorials\\QuantumClassification\\QuantumClassification.csproj",
         "projectName": "QuantumClassification",
-        "projectPath": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/tutorials/QuantumClassification/QuantumClassification.csproj",
-        "packagesPath": "/Users/zach/.nuget/packages/",
-        "outputPath": "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/tutorials/QuantumClassification/obj/",
+        "projectPath": "c:\\Users\\zacha\\Dev\\Microsoft-Quantum-Katas\\tutorials\\QuantumClassification\\QuantumClassification.csproj",
+        "packagesPath": "C:\\Users\\zacha\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\zacha\\Dev\\Microsoft-Quantum-Katas\\tutorials\\QuantumClassification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zach/Library/Mobile Documents/com~apple~CloudDocs/Developer/QuantumKatas/NuGet.Config",
-          "/Users/zach/.nuget/NuGet/NuGet.Config"
+          "c:\\Users\\zacha\\Dev\\Microsoft-Quantum-Katas\\NuGet.Config",
+          "C:\\Users\\zacha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://pkgs.dev.azure.com/ms-quantum-public/Microsoft Quantum (public)/_packaging/alpha/nuget/v3/index.json": {}
         },
@@ -83,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

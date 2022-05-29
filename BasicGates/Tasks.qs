@@ -51,7 +51,7 @@ namespace Quantum.Kata.BasicGates {
         // Type X(q);
         // Then rebuild the project and rerun the tests - T101_StateFlip should now pass!
 
-        // ...
+        X(q);
     }
 
 
