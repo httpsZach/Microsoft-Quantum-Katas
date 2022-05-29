@@ -1,0 +1,52 @@
+--proj
+    "C:\Users\zacha\Dev\Microsoft-Quantum-Katas\BasicGates\BasicGates"
+--input
+    "C:\Users\zacha\Dev\Microsoft-Quantum-Katas\BasicGates\ReferenceImplementation.qs"
+    "C:\Users\zacha\Dev\Microsoft-Quantum-Katas\BasicGates\Tasks.qs"
+    "C:\Users\zacha\Dev\Microsoft-Quantum-Katas\BasicGates\Tests.qs"
+--output
+    "C:/Users/zacha/Dev/Microsoft-Quantum-Katas/BasicGates/obj/qsharp/"
+--references
+    "C:\Users\zacha\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.0\ref\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.experimental.collections\1.0.6-e190117-3\lib\netstandard2.0\Microsoft.Experimental.Collections.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.BondSchemas.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.katas\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Katas.Common.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.katas\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Katas.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsCompilationManager.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsCompiler.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsCore.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsDataStructures.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsDocumentationParser.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.qsharp.core\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QSharp.Core.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.qsharp.foundation\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QSharp.Foundation.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsOptimizations.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsSyntaxProcessor.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsTextProcessor.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.compiler\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.QsTransformations.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.runtime.core\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Runtime.Core.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.simulators\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Simulation.Common.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.simulators\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.simulators\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Simulators.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.standard\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Standard.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.targets.interfaces\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Targets.Interfaces.dll"
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.xunit\0.24.210930\lib\netstandard2.1\Microsoft.Quantum.Xunit.dll"
+    "C:\Users\zacha\.nuget\packages\numsharp\0.20.5\lib\netstandard2.0\NumSharp.Core.dll"
+    "C:\Users\zacha\.nuget\packages\xunit.abstractions\2.0.1\lib\netstandard1.0\xunit.abstractions.dll"
+    "C:\Users\zacha\.nuget\packages\xunit.assert\2.3.1\lib\netstandard1.1\xunit.assert.dll"
+    "C:\Users\zacha\.nuget\packages\xunit.extensibility.core\2.3.1\lib\netstandard1.1\xunit.core.dll"
+    "C:\Users\zacha\.nuget\packages\xunit.extensibility.execution\2.3.1\lib\netstandard1.1\xunit.execution.dotnet.dll"
+--load
+    "C:\Users\zacha\.nuget\packages\microsoft.quantum.csharpgeneration\0.24.210930\build\/../lib/netstandard2.1/Microsoft.Quantum.CSharpGeneration.dll"
+--runtime
+    FullComputation
+--skip-monomorphization
+--package-load-fallback-folders
+    "C:/Users/zacha/Dev/Microsoft-Quantum-Katas/BasicGates/bin/Debug/net6.0/"
+--assembly-properties
+    DocsPackageId:BasicGates
+    ExecutionTarget:Any
+    AssemblyName:BasicGates
+    ProcessorArchitecture:Unspecified
+    QSharpOutputType:QSharpLibrary
